@@ -1,0 +1,176 @@
+Glossary of Terms
+Term 	Meaning
+COM 	Component Object Model (COM) is a binary-interface standard for software components introduced by Microsoft in 1993. It is used to enable inter-process communication and dynamic object creation in a large range of programming languages. COM is the basis for several other Microsoft technologies and frameworks, including OLE, OLE Automation, ActiveX, COM+, DCOM, the Windows shell, DirectX, UMDF and Windows Runtime.
+VBA 	Visual Basic for Applications (VBA) is an implementation of Microsoft's event-driven programming language Visual Basic 6 and uses the Visual Basic Runtime Library. However, VBA code normally can only run within a host application, rather than as a standalone program. VBA can, however, control one application from another using OLE Automation. VBA can use, but not create, ActiveX/COM DLLs, and later versions add support for class modules.
+VSTO 	Visual Studio Tools for Office (VSTO) is a set of development tools available in the form of a Visual Studio add-in (project templates) and a runtime that allows Microsoft Office 2003 and later versions of Office applications to host the .NET Framework Common Language Runtime (CLR) to expose their functionality via .NET.
+XML 	Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.The design goals of XML emphasize simplicity, generality, and usability across the Internet. It is a textual data format with strong support via Unicode for different human languages. Although the design of XML focuses on documents, the language is widely used for the representation of arbitrary data structures such as those used in web services.
+
+Functionality
+
+This Excel ribbon named “Favorites” is inserted after the “Home” tab when Excel opens.
+
+Worksheet (Group)
+
+Save (Button)
+
+    Save (Ctrl + S)
+
+Save As (Button)
+
+    Save As (F12)
+
+Edit (Group)
+
+Undo (Button)
+
+    Undo (Ctrl + Z)
+
+Copy (Button)
+
+    Copy (Ctrl + C)
+
+Cut (Button)
+
+    Cut (Ctrl + X)
+
+Paste (Button)
+
+    Paste (Ctrl + V)
+
+Spelling (Button)
+
+    Spelling (F7)
+
+Print (Group)
+
+Setup (Button)
+
+    Show the Sheet tab of the page setup dialog box
+
+Preview (Button)
+
+    Preview (Ctrl + F2)
+
+Print (Button)
+
+    Print (Ctrl + P)
+
+Program (Group)
+
+New (Button)
+
+    New file
+
+Open (Button)
+
+    Open (Ctrl + O)
+
+Close (Button)
+
+    Close file
+
+Properties (Button)
+
+    Open the properties of the file
+
+Options (Button)
+
+    Open the options dialog box
+
+Exit (Button)
+
+    Exit the application
+
+Evaluate (Group)
+
+Windows Calculator (Button)
+
+calculator
+
+    The Windows Calculator runs in standard mode, which resembles a four-function calculator. More advanced functions are available in scientific mode, including logarithms, numerical base conversions, some logical operators, operator precedence, radian, degree and gradians support as well as simple single-variable statistical functions
+
+Calculate Now (Button)
+
+    Force the Calculation. Even if the Calculation option is set for Manual, you can force a calculation.
+
+Annotate (Group)
+
+Excel Camera(Button)
+
+    The camera tool allows you to take a snapshot of any selected range of data, table, or graph, and paste it as a linked picture. The pasted snapshot can be formatted and resized using picture tools. They can be copied and pasted into Word and PowerPoint documents as well. The image is automatically refreshed if the data changes.
+
+Snipping Tool (Button)
+
+snipping_tool
+
+    Capture all or part of your PC screen, add notes, save the snip, or email it from the Snipping Tool window. You can capture any of the following types of snips:
+        Free-form snip. Draw a free-form shape around an object.
+        Rectangular snip. Drag the cursor around an object to form a rectangle.
+        Window snip. Select a window, such as a browser window or dialog box, that you want to capture.
+        Full-screen snip. Capture the entire screen.
+
+Problem Step Recorder (Button)
+
+psr
+
+    Steps Recorder (called Problems Steps Recorder in Windows 7), is a program that helps you troubleshoot a problem on your device by recording the exact steps you took when the problem occurred. You can then send this record to a support professional to help them diagnose the problem.
+
+Options (Group)
+Add-In Settings (Button)
+VSTO
+
+    Types of VSTO Settings
+        Application Settings
+            These settings can only be changed in the project and need to be redeployed
+            They will appear disabled in the form
+        User Settings
+            These settings can be changed by the end-user
+            They will appear enabled in the form
+
+VBA
+
+    VBA Settings
+        To add a new setting
+
+        ThisWorkbook.CustomDocumentProperties.Add _
+        Name:="App_ReleaseDate" _
+        , LinkToContent:=False _
+        , Type:=msoPropertyTypeDate _
+        , Value:="31-Jul-2017 1:05pm"
+
+        To update a setting
+
+        ThisWorkbook.CustomDocumentProperties.Item("App_ReleaseDate").Value = "31-Jul-2017 1:05pm"
+
+        To delete a setting
+
+        ThisWorkbook.CustomDocumentProperties.Item("App_ReleaseDate").Delete
+
+Help (Group)
+
+How To... (Button)
+
+    Opens the how to guide in a browser
+
+Report Issue (Button)
+
+    Opens the new issue page in a browser
+
+New Version Is Available (Button)
+
+    This button is visible if the version of the Add-In is different from the one in the Read Me page. It will download a new version from the site when pressed.
+
+About (Group)
+about
+
+Add-in Name (Label)
+
+    The application name with the version
+
+Release Date (Label)
+
+    The release date of the application
+
+Copyright (Label)
+
+    The author’s name
