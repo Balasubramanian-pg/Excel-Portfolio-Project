@@ -121,5 +121,3 @@ Ideally, use both! A top-down approach can give you a quick sense of scale, whil
 *   **Ask Questions!** If you're unsure about sources, assumptions, or calculations, please ask. That's what we're here for.
 
 ---
-
-Market sizing is a foundational skill. Take your time, be thorough, and don't hesitate to ask for guidance. We're excited to see what you learn!
