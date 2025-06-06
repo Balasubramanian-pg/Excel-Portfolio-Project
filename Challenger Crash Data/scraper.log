@@ -1,0 +1,595 @@
+2025-05-25 11:19:39,203 - INFO - Starting scrape for: ceo bangalore linkedin
+2025-05-25 11:19:51,193 - INFO - Scraping page 1
+2025-05-25 11:19:51,263 - INFO - Found 11 LinkedIn links on page
+2025-05-25 11:20:01,828 - INFO - Scraped: None - https://in.linkedin.com/in/anandsriganesh#:~:text=Anand%20Sri%20Ganesh%20%2D%20Bengaluru%2C%20Karnataka,%2C%20India%20%7C%20Professional%20Profile%20%7C%20LinkedIn
+2025-05-25 11:20:12,112 - INFO - Scraped: None - https://in.linkedin.com/in/mohammed-imran-435ba0187#:~:text=Mohammed%20Imran%20%2D%20Ceo%20
+2025-05-25 11:20:25,518 - INFO - Scraped: None - https://in.linkedin.com/in/shivku#:~:text=Shivakumar%20Ganesan%20%2D%20Bengaluru%2C%20Karnataka%2C%20India%20%7C%20Professional%20Profile%20%7C%20LinkedIn
+2025-05-25 11:20:26,193 - INFO - Scraped: Nitin Gupta - Bengaluru, Karnataka, India - https://in.linkedin.com/in/nitinguptaprofile
+2025-05-25 11:20:26,707 - INFO - Scraped: Sharan Hegde - Founder & CEO - 1% Club - https://in.linkedin.com/in/sharanhegde95
+2025-05-25 11:20:27,539 - INFO - Scraped: Shivakumar Ganesan - Bengaluru, Karnataka, India - https://in.linkedin.com/in/shivku
+2025-05-25 11:20:28,658 - INFO - Scraped: Abhishek Singh - Bangalore Urban, Karnataka, India - https://in.linkedin.com/in/avicsingh01
+2025-05-25 11:20:29,295 - INFO - Scraped: Krishna Kumar Shetty - Loyola College - https://in.linkedin.com/in/krishna-kumar-shetty-1026a255
+2025-05-25 11:20:30,410 - INFO - Scraped: Yashwanth M. - Bengaluru, Karnataka, India - https://in.linkedin.com/in/yashwanthm
+2025-05-25 11:20:30,980 - INFO - Scraped: Ashish Goel - Bengaluru, Karnataka, India - https://in.linkedin.com/in/ashish-goel-591572
+2025-05-25 11:20:31,667 - INFO - Scraped: Harshil Mathur - Razorpay - https://in.linkedin.com/in/harshilmathur
+2025-05-25 11:20:31,672 - INFO - Checkpoint saved: 11 URLs
+2025-05-25 11:20:31,678 - INFO - Results saved to linkedin_ceo_bangalore_profiles.json: 11 profiles
+2025-05-25 11:20:37,112 - INFO - Scraping page 2
+2025-05-25 11:20:37,222 - INFO - Found 9 LinkedIn links on page
+2025-05-25 11:20:37,525 - INFO - Scraped: Dr.Lakshmi Jagannathan - Chief Executive Officer ... - https://in.linkedin.com/in/drlakshmijagannathan
+2025-05-25 11:20:37,880 - INFO - Scraped: Anand Sri Ganesh - Bengaluru, Karnataka, India - https://in.linkedin.com/in/anandsriganesh
+2025-05-25 11:20:38,137 - INFO - Scraped: saraswathi venkateswaran - CEO Search India Pvt Ltd - https://in.linkedin.com/in/saraswathivenkateswaran
+2025-05-25 11:20:38,416 - INFO - Scraped: Musthafa P. - Bengaluru, Karnataka, India - https://in.linkedin.com/in/musthafa-p-7052082
+2025-05-25 11:20:38,687 - INFO - Scraped: Sankar Chatterjee - Decathlon Sports India - https://in.linkedin.com/in/sankar-chatterjee-8a060614
+2025-05-25 11:20:38,982 - INFO - Scraped: Mohammed Imran - Ceo & Founder - Bangalore Job Hub - https://in.linkedin.com/in/mohammed-imran-435ba0187
+2025-05-25 11:20:39,224 - INFO - Scraped: Nandita Sinha - Myntra - https://in.linkedin.com/in/nandita-sinha-3020275
+2025-05-25 11:20:39,463 - INFO - Scraped: Amit Gupta - Yulu - https://in.linkedin.com/in/amitgupta007
+2025-05-25 11:20:39,703 - INFO - Scraped: Sriram Kuchimanchi - Founder & CEO - Smarter Dharma - https://in.linkedin.com/in/sriramkuchimanchi
+2025-05-25 11:20:46,575 - INFO - Scraping page 3
+2025-05-25 11:20:46,625 - INFO - Found 13 LinkedIn links on page
+2025-05-25 11:20:46,885 - INFO - Scraped: Mithun Srivatsa - Bengaluru, Karnataka, India - https://in.linkedin.com/in/mithunsrivatsa
+2025-05-25 11:20:47,131 - INFO - Scraped: Shashank ND - Confederation of Indian Industry - https://in.linkedin.com/in/shashanknd
+2025-05-25 11:20:47,384 - INFO - Scraped: Rajan Bajaj - slice - https://in.linkedin.com/in/rajanbajaj
+2025-05-25 11:20:47,639 - INFO - Scraped: Sudip Singh - ITC Infotech - https://in.linkedin.com/in/sudipsingh
+2025-05-25 11:20:58,269 - INFO - Scraped: None - https://in.linkedin.com/in/vinay-h-a98536201
+2025-05-25 11:21:08,952 - INFO - Scraped: None - https://in.linkedin.com/in/girishkurudi
+2025-05-25 11:21:19,421 - INFO - Scraped: None - https://in.linkedin.com/in/abhishek-shetty-7b625ab7
+2025-05-25 11:21:29,993 - INFO - Scraped: None - https://in.linkedin.com/in/hari-marar-77841a4
+2025-05-25 11:21:40,354 - INFO - Scraped: None - https://in.linkedin.com/in/dakshayani-shivapramod-31083575
+2025-05-25 11:21:46,198 - INFO - Scraping page 4
+2025-05-25 11:21:46,241 - INFO - Found 3 LinkedIn links on page
+2025-05-25 11:21:46,417 - INFO - Scraped: Nithin Kamath - Zerodha - https://in.linkedin.com/in/nithin-kamath-81136242
+2025-05-25 11:21:46,584 - INFO - Scraped: Sankeerth Reddy - City CEO - Bangalore - Flipkart - https://in.linkedin.com/in/sankeerth-bond
+2025-05-25 11:21:52,836 - INFO - Scraping page 5
+2025-05-25 11:21:52,866 - INFO - Found 2 LinkedIn links on page
+2025-05-25 11:21:53,118 - INFO - Scraped: Ayyappan R - FirstClub Technology Private Limited - https://in.linkedin.com/in/ayyappan-r
+2025-05-25 11:21:53,323 - INFO - Scraped: Binod Pawar - Founder-Director & CEO - https://in.linkedin.com/in/binod-pawar-010b98143
+2025-05-25 11:21:58,185 - INFO - Scraping page 6
+2025-05-25 11:21:58,240 - INFO - Found 1 LinkedIn links on page
+2025-05-25 11:21:58,467 - INFO - Scraped: Sudarshan Kamath - smallest.ai - https://www.linkedin.com/in/sudarshankamath
+2025-05-25 11:21:58,469 - INFO - Checkpoint saved: 34 URLs
+2025-05-25 11:21:58,474 - INFO - Results saved to linkedin_ceo_bangalore_profiles.json: 34 profiles
+2025-05-25 11:22:03,820 - INFO - Scraping page 7
+2025-05-25 11:22:03,866 - INFO - Found 2 LinkedIn links on page
+2025-05-25 11:22:04,591 - INFO - Scraped: Rarathody Sukumaran - Founder & CEO - https://in.linkedin.com/in/rarathody-sukumaran-84107214
+2025-05-25 11:22:11,524 - INFO - Scraping page 8
+2025-05-25 11:22:11,592 - INFO - Found 5 LinkedIn links on page
+2025-05-25 11:22:11,848 - INFO - Scraped: Prashanth Jain - BMW Deutsche Motoren Bangalore - https://in.linkedin.com/in/prashanth-jain-083773200
+2025-05-25 11:22:12,117 - INFO - Scraped: Nagaraja S - CEO and Co- founder - https://in.linkedin.com/in/nagaraja-s-5340a241
+2025-05-25 11:22:12,372 - INFO - Scraped: Subra Krishnan - Lemnisk - https://in.linkedin.com/in/subramaniyan
+2025-05-25 11:22:12,578 - INFO - Scraped: Deepankar Das - CEO - ButtonShift - https://in.linkedin.com/in/milesdeep
+2025-05-25 11:22:12,785 - INFO - Scraped: Rajendra Joshi - Lodha - https://in.linkedin.com/in/rajendra-joshi-9b41898
+2025-05-25 11:22:18,366 - INFO - Scraping page 9
+2025-05-25 11:22:18,415 - INFO - Found 10 LinkedIn links on page
+2025-05-25 11:22:18,689 - INFO - Scraped: Savitha Reddy - inlingua Bangalore - https://in.linkedin.com/in/savithareddy
+2025-05-25 11:22:18,971 - INFO - Scraped: Vishal Dhupar - NVIDIA - https://in.linkedin.com/in/vishaldhupar
+2025-05-25 11:22:19,261 - INFO - Scraped: Vaibhav Tewari - Portea - https://in.linkedin.com/in/vaibhavtewari
+2025-05-25 11:22:19,472 - INFO - Scraped: Bino V.L - CEO - INNOVATIONS BANGALORE - https://in.linkedin.com/in/bino-v-l-77705248
+2025-05-25 11:22:19,698 - INFO - Scraped: Jeevan Dongre (JD) - antstack.io - https://in.linkedin.com/in/jeevandongre
+2025-05-25 11:22:19,961 - INFO - Scraped: Vishwas Mudagal - GoodWorkLabs - https://in.linkedin.com/in/vishwasmudagal
+2025-05-25 11:22:20,213 - INFO - Scraped: Raj Sakhumalla - CEO & Executive Director - SPL Co. - https://in.linkedin.com/in/rajsakhumalla
+2025-05-25 11:22:20,517 - INFO - Scraped: Anuj Agrawal - Zyoin Group - https://in.linkedin.com/in/anujagrawalzyoin
+2025-05-25 11:22:20,767 - INFO - Scraped: Prashanth Vasan - Co-Founder and CEO - Origin - https://in.linkedin.com/in/prashanth-vasan-b3b84985
+2025-05-25 11:22:21,014 - INFO - Scraped: Rahul Chawla - Global Velocity Ventures - https://in.linkedin.com/in/therahulchawla
+2025-05-25 11:22:25,952 - INFO - Scraping page 10
+2025-05-25 11:22:25,992 - INFO - Found 10 LinkedIn links on page
+2025-05-25 11:22:26,209 - INFO - Scraped: Rajneesh Karnatak - MD & CEO - Bank of India - https://in.linkedin.com/in/rajneeshkarnatak
+2025-05-25 11:22:26,383 - INFO - Scraped: Amit Mishra - Founder and CEO - Tripper Trails - https://in.linkedin.com/in/amit-mishra-1101b0110
+2025-05-25 11:22:26,557 - INFO - Scraped: Vikas Purohit - Bennett Coleman & Co. Ltd. (The Times of ... - https://in.linkedin.com/in/vikaspurohit
+2025-05-25 11:22:26,721 - INFO - Scraped: Rao KNM - Founder & CEO - Quick Ride - https://in.linkedin.com/in/knmrao
+2025-05-25 11:22:26,887 - INFO - Scraped: Vikram Labhe - Bengaluru, Karnataka, India - https://in.linkedin.com/in/vikramlabhe
+2025-05-25 11:22:27,064 - INFO - Scraped: Manu Saale - Mercedes-Benz Research and Development ... - https://in.linkedin.com/in/manu-saale-9487563
+2025-05-25 11:22:27,242 - INFO - Scraped: Ravi Gururaj - LeapMile Robotics - https://in.linkedin.com/in/rgururaj
+2025-05-25 11:22:27,409 - INFO - Scraped: Peyush Bansal - Lenskart.com - https://in.linkedin.com/in/peyushbansal
+2025-05-25 11:22:27,569 - INFO - Scraped: Dolly T. - CEO Forums- Bangalore and Chennai - https://in.linkedin.com/in/dolly-t-b05a80108
+2025-05-25 11:22:27,825 - INFO - Scraped: Nikhil Kamath - Co-Founder - Zerodha - https://in.linkedin.com/in/nikhilkamathcio
+2025-05-25 11:22:32,656 - INFO - Taking extended break...
+2025-05-25 11:23:10,173 - INFO - Scraping page 11
+2025-05-25 11:23:10,250 - INFO - Found 10 LinkedIn links on page
+2025-05-25 11:23:10,521 - INFO - Scraped: Manu Kumar Jain - G42 - https://ae.linkedin.com/in/manukumarjain
+2025-05-25 11:23:10,775 - INFO - Scraped: Dipesh Shah - Havells India Ltd - https://in.linkedin.com/in/dipesh007
+2025-05-25 11:23:11,215 - INFO - Scraped: Dr.Jayant Kumar (PhD) - Bengaluru, Karnataka, India - https://in.linkedin.com/in/jayantzuno
+2025-05-25 11:23:11,522 - INFO - Scraped: Siddharth Ramasubramanian - Bengaluru, Karnataka, India - https://in.linkedin.com/in/siddharthvaikunth
+2025-05-25 11:23:11,740 - INFO - Scraped: Vaibhav Gupta - Bengaluru, Karnataka, India - https://in.linkedin.com/in/vaibhav-gupta-629568
+2025-05-25 11:23:12,130 - INFO - Scraped: Lalit Keshre - Groww, India - https://in.linkedin.com/in/lalitkeshre
+2025-05-25 11:23:12,363 - INFO - Scraped: Shantanu Deshpande - Bombay Shaving Company - https://in.linkedin.com/in/shantanudeshpandebsc
+2025-05-25 11:23:12,589 - INFO - Scraped: Rajesh Krishnan - United Way of Bengaluru - https://in.linkedin.com/in/thondukulam
+2025-05-25 11:23:12,805 - INFO - Scraped: Amit Kumar Agarwal - NoBroker.com - https://in.linkedin.com/in/amit-kumar-agarwal-5b30301
+2025-05-25 11:23:12,808 - INFO - Checkpoint saved: 70 URLs
+2025-05-25 11:23:12,813 - INFO - Results saved to linkedin_ceo_bangalore_profiles.json: 70 profiles
+2025-05-25 11:23:18,850 - INFO - Scraping page 12
+2025-05-25 11:23:18,893 - INFO - Found 8 LinkedIn links on page
+2025-05-25 11:23:19,145 - INFO - Scraped: Guruprasad Mudlapur - Bosch India - https://in.linkedin.com/in/gmudlapur
+2025-05-25 11:23:19,379 - INFO - Scraped: Nirupesh Joshi - Bangalore Watch Company - https://in.linkedin.com/in/nirupesh
+2025-05-25 11:23:19,623 - INFO - Scraped: Preeyanka Sengupta - Ceo - Indian Institute of ... - https://in.linkedin.com/in/preeyanka-sengupta-3249b085
+2025-05-25 11:23:19,866 - INFO - Scraped: Harsh Vardhan Singh - Founder & CEO - Vikgol - https://in.linkedin.com/in/harsh-vardhan-singh-dscet
+2025-05-25 11:23:20,110 - INFO - Scraped: Anil K. - Chief Executive Officer - Menzies Aviation - https://in.linkedin.com/in/anil-k-81814634
+2025-05-25 11:23:20,453 - INFO - Scraped: Chandrasekhar K - Bengaluru, Karnataka, India - https://in.linkedin.com/in/kcsekhar
+2025-05-25 11:23:20,697 - INFO - Scraped: David Rajesh - Bangalore University - https://in.linkedin.com/in/david-rajesh-108b0086
+2025-05-25 11:23:20,970 - INFO - Scraped: Soumitra Bhattacharya - Indian Foundation for Quality ... - https://in.linkedin.com/in/soumitra-bhattacharya-8ba83b184
+2025-05-25 11:23:25,954 - INFO - Scraping page 13
+2025-05-25 11:23:25,998 - INFO - Found 10 LinkedIn links on page
+2025-05-25 11:23:26,383 - INFO - Scraped: Hari Menon - Co-Founder & CEO - bigbasket.com - https://in.linkedin.com/in/harimenon-bigbasket
+2025-05-25 11:23:26,620 - INFO - Scraped: Prashant Gupta - Bengaluru, Karnataka, India - https://in.linkedin.com/in/prashant-gupta-bandhoo
+2025-05-25 11:23:26,872 - INFO - Scraped: Pankaj Vyas - Siemens Technology India - https://in.linkedin.com/in/pankajnvyas
+2025-05-25 11:23:27,091 - INFO - Scraped: Pratik Kumar - Bangalore Rural, Karnataka, India - https://in.linkedin.com/in/pratik-kumar-2a819b3
+2025-05-25 11:23:27,332 - INFO - Scraped: Abhishek Poddar - Plum - https://in.linkedin.com/in/abhishek24
+2025-05-25 11:23:27,597 - INFO - Scraped: Nair Vineeth - AJIO.com - https://in.linkedin.com/in/nair-vineeth-91b528b
+2025-05-25 11:23:27,826 - INFO - Scraped: Sachin Bansal - Navi - https://in.linkedin.com/in/sachinbansal
+2025-05-25 11:23:28,058 - INFO - Scraped: Sidhavelayutham Mohanamoorthy - Alice Blue - https://in.linkedin.com/in/sidhavelayutham-mohanamoorthy-20981739
+2025-05-25 11:23:34,033 - INFO - Scraping page 14
+2025-05-25 11:23:34,098 - INFO - Found 9 LinkedIn links on page
+2025-05-25 11:23:34,346 - INFO - Scraped: Sunil Gopinath - Rakuten - https://in.linkedin.com/in/sunilgopinath
+2025-05-25 11:23:34,601 - INFO - Scraped: Sandeep Dhar - Wipro - https://in.linkedin.com/in/sandeepdhar
+2025-05-25 11:23:34,909 - INFO - Scraped: Kumar Venkatasubramanian - Procter & Gamble - https://in.linkedin.com/in/kumar-venkatasubramanian
+2025-05-25 11:23:35,137 - INFO - Scraped: Dhananjay Mishra - Co-Founder & CEO - TruEstate - https://in.linkedin.com/in/dhananjay-mishra-346a7620
+2025-05-25 11:23:35,355 - INFO - Scraped: Ravi Kumar S - Cognizant - https://www.linkedin.com/in/imravikumars
+2025-05-25 11:23:35,588 - INFO - Scraped: Karan Bhagat - Founder MD & CEO - 360 ONE - https://in.linkedin.com/in/karanbhagat360one
+2025-05-25 11:23:35,820 - INFO - Scraped: Ankur Warikoo - Founder - WebVeda - https://in.linkedin.com/in/warikoo
+2025-05-25 11:23:36,059 - INFO - Scraped: Amit Mishra - Founder & CEO - Dazeinfo Media & Research - https://in.linkedin.com/in/amit6060
+2025-05-25 11:23:36,307 - INFO - Scraped: Anil Agarwal - CEO & Co-Founder - InCruiter - https://in.linkedin.com/in/anil-incruiter
+2025-05-25 11:23:43,387 - INFO - Scraping page 15
+2025-05-25 11:23:43,501 - INFO - Found 4 LinkedIn links on page
+2025-05-25 11:23:43,753 - INFO - Scraped: Suresh Rangarajan - Bengaluru, Karnataka, India - https://in.linkedin.com/in/sureshrangaraj
+2025-05-25 11:23:44,005 - INFO - Scraped: Arindam Banerrji - Bengaluru, Karnataka, India - https://in.linkedin.com/in/arindam-banerrji-ab62a1
+2025-05-25 11:23:44,243 - INFO - Scraped: Vipul Parekh - Bengaluru, Karnataka, India - https://in.linkedin.com/in/vipulparekh
+2025-05-25 11:23:44,490 - INFO - Scraped: Ananth Narayanan - Founder - Mensa Brands - https://in.linkedin.com/in/ananth-narayanan1
+2025-05-25 11:24:24,607 - INFO - No more pages available
+2025-05-25 11:24:27,016 - INFO - Checkpoint saved: 99 URLs
+2025-05-25 11:24:27,024 - INFO - Results saved to linkedin_ceo_bangalore_profiles.json: 99 profiles
+2025-06-06 19:47:54,375 - INFO - Starting scrape for: talent acquisition  pune linkedin
+2025-06-06 19:48:07,202 - INFO - Scraping page 1
+2025-06-06 19:48:07,291 - INFO - Found 4 LinkedIn links on page
+2025-06-06 19:48:17,890 - INFO - Scraped: None - https://uk.linkedin.com/in/harrietkendall01#:~:text=The%20role%20of%20Talent%20Acquisition%20is%20a,role%2C%20that%20is%20as%20much%20about%20WHAT%E2%80%A6
+2025-06-06 19:48:28,393 - INFO - Scraped: None - https://in.linkedin.com/in/hranirbanmukherjee#:~:text=iPlace%20USA
+2025-06-06 19:48:28,682 - INFO - Scraped: Mahesh Wandile - Manager- Talent Acquisition - Eaton - https://in.linkedin.com/in/mahesh-wandile-3168714
+2025-06-06 19:48:28,966 - INFO - Scraped: Natasha Corda - Strategic Talent Acquisition - Suzlon ... - https://in.linkedin.com/in/natasha-corda-8468334
+2025-06-06 19:48:28,968 - INFO - Checkpoint saved: 4 URLs
+2025-06-06 19:48:28,972 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 4 profiles
+2025-06-06 19:48:33,361 - INFO - Scraping page 2
+2025-06-06 19:48:33,400 - INFO - Found 8 LinkedIn links on page
+2025-06-06 19:48:33,729 - INFO - Scraped: Pranav Mahajan - Talent Acquisition Partner - Alfa Laval - https://in.linkedin.com/in/pranav-mahajan-01148215
+2025-06-06 19:48:34,092 - INFO - Scraped: Nitika Sinha - Talent Acquisition Manager - https://in.linkedin.com/in/nitika-sinha-b1215957
+2025-06-06 19:48:34,444 - INFO - Scraped: Deepti Grace - General Manager - Talent Acquisition - https://in.linkedin.com/in/deeptigrace
+2025-06-06 19:48:34,751 - INFO - Scraped: Kavita Nair - Lead Talent Acquisition - AlphaSense - https://in.linkedin.com/in/kavita-nair-7b223098
+2025-06-06 19:48:35,077 - INFO - Scraped: Harshad Somnath Dighe - Lead Talent Acquisition - Emerson - https://in.linkedin.com/in/harshad-dighe
+2025-06-06 19:48:35,446 - INFO - Scraped: Gargi Banerjee - Senior Manager Talent Acquisition - Mercer - https://in.linkedin.com/in/gargi-banerjee-2944a090
+2025-06-06 19:48:35,792 - INFO - Scraped: Rajbir Bhowmick - Human Resources (Talent Acquisition) - https://in.linkedin.com/in/rajbir-bhowmick-head-talent-acquisition-bajajhousingfinanceltd
+2025-06-06 19:48:36,118 - INFO - Scraped: Balakumar Mohan - Pune, Maharashtra, India - https://in.linkedin.com/in/balakumarmohan
+2025-06-06 19:48:42,339 - INFO - Scraping page 3
+2025-06-06 19:48:42,389 - INFO - Found 6 LinkedIn links on page
+2025-06-06 19:48:42,669 - INFO - Scraped: Huzefa Vapra - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/huzefavapra
+2025-06-06 19:48:42,931 - INFO - Scraped: Anirban Mukherjee - Talent Acquisition Specialist - https://in.linkedin.com/in/hranirbanmukherjee
+2025-06-06 19:48:43,201 - INFO - Scraped: Swarada Deshpande - Talent Acquisition at BMC Software - https://in.linkedin.com/in/swarada-deshpande-81ab68132
+2025-06-06 19:48:43,454 - INFO - Scraped: Siddhartha Roychowdhury - Head of Talent Acquisition - JLR - https://in.linkedin.com/in/siddhartha-roychowdhury-000b2b5
+2025-06-06 19:48:43,730 - INFO - Scraped: Pooja M. - Senior Talent Acquisition - Persistent Systems - https://in.linkedin.com/in/pooja-m-037717a5
+2025-06-06 19:48:44,004 - INFO - Scraped: Tejaswini Pawar - Talent Acquisition Manager - https://in.linkedin.com/in/tejaswinipawar
+2025-06-06 19:48:51,047 - INFO - Scraping page 4
+2025-06-06 19:48:51,102 - INFO - Found 3 LinkedIn links on page
+2025-06-06 19:48:51,429 - INFO - Scraped: Dinesh Chavan - Talent Acquisition Lead - HNI GBSC - https://in.linkedin.com/in/dinesh-d3-chavand
+2025-06-06 19:48:51,745 - INFO - Scraped: Kumar Saurabh - Talent Acquisition Leader - AST LLC - https://in.linkedin.com/in/kumar-saurabh-aa03613a
+2025-06-06 19:48:52,037 - INFO - Scraped: Nikhil Patil - Talent Acquisition Manager - Tietoevry Tech ... - https://in.linkedin.com/in/nikhilpatil178
+2025-06-06 19:48:56,330 - INFO - Scraping page 5
+2025-06-06 19:48:56,391 - INFO - Found 1 LinkedIn links on page
+2025-06-06 19:48:56,803 - INFO - Scraped: Priyanka Shiravale - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/priyanka-shiravale-10946a102
+2025-06-06 19:49:03,255 - INFO - Scraping page 6
+2025-06-06 19:49:13,300 - INFO - Found 0 LinkedIn links on page
+2025-06-06 19:49:13,303 - INFO - Checkpoint saved: 22 URLs
+2025-06-06 19:49:13,305 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 22 profiles
+2025-06-06 19:49:18,502 - INFO - Scraping page 7
+2025-06-06 19:49:18,541 - INFO - Found 1 LinkedIn links on page
+2025-06-06 19:49:18,783 - INFO - Scraped: Pallavi Kalekar - Talent Acquisition Specialist - Flex - https://in.linkedin.com/in/pallavi-kalekar-3632b0111
+2025-06-06 19:49:22,652 - INFO - Scraping page 8
+2025-06-06 19:49:22,689 - INFO - Found 1 LinkedIn links on page
+2025-06-06 19:49:22,953 - INFO - Scraped: Darshana Kulkarni - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/darshana-kulkarni
+2025-06-06 19:49:28,624 - INFO - Scraping page 9
+2025-06-06 19:49:28,670 - INFO - Found 3 LinkedIn links on page
+2025-06-06 19:49:28,953 - INFO - Scraped: Razia Shaikh (She/Her/Hers)Talent Acquisition Leader - https://in.linkedin.com/in/raziashaikh
+2025-06-06 19:49:29,210 - INFO - Scraped: Pranati Chouhan - Team Lead Talent Acquisition - Korn Ferry - https://in.linkedin.com/in/pranati-chouhan-b4b37393
+2025-06-06 19:49:29,491 - INFO - Scraped: Puja Pandey - Talent Acquisition Lead - Cummins India - https://in.linkedin.com/in/puja-pandey-15789a16
+2025-06-06 19:49:35,829 - INFO - Scraping page 10
+2025-06-06 19:49:35,866 - INFO - Found 7 LinkedIn links on page
+2025-06-06 19:49:36,117 - INFO - Scraped: Seba Vipul Sam - Talent Acquisition Lead - https://in.linkedin.com/in/sebavipulsam
+2025-06-06 19:49:36,405 - INFO - Scraped: Swapnil Khade - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/swapnil-khade-29589a96
+2025-06-06 19:49:36,696 - INFO - Scraped: Dipti Murudkar - Lead Consultant -Talent Acquisition - https://in.linkedin.com/in/dipti-murudkar-409b4164
+2025-06-06 19:49:36,962 - INFO - Scraped: Prafulla Char - Group Manager I - Talent Acquisition - UST - https://in.linkedin.com/in/prafullac
+2025-06-06 19:49:37,258 - INFO - Scraped: Naveen Kavtiyal - Talent Acquisition Manager - https://in.linkedin.com/in/naveen-kavtiyal
+2025-06-06 19:49:37,635 - INFO - Scraped: Harsh D. - Talent Acquisition Manager - Persistent Systems - https://in.linkedin.com/in/hdiwakirti
+2025-06-06 19:49:37,993 - INFO - Scraped: Sachin Mirpuri - Talent Acquisition Partner - Medallia - https://in.linkedin.com/in/sachinmirpuri
+2025-06-06 19:49:43,898 - INFO - Taking extended break...
+2025-06-06 19:50:42,615 - INFO - Scraping page 11
+2025-06-06 19:50:42,678 - INFO - Found 4 LinkedIn links on page
+2025-06-06 19:50:43,007 - INFO - Scraped: Komal Choudhari - Manager, Talent Acquisition - https://in.linkedin.com/in/komalchoudhari
+2025-06-06 19:50:43,317 - INFO - Scraped: Rajnish Sharma - Sr. Manager Talent Acquisition - Zensar ... - https://in.linkedin.com/in/rajnishsharma82
+2025-06-06 19:50:43,651 - INFO - Scraped: Puneetha Murthy - Talent Acquisition Lead - ANSR - https://in.linkedin.com/in/puneetha-murthy-80384bb1
+2025-06-06 19:50:43,970 - INFO - Scraped: Sandeep Chauhan - Head of Talent Acquisition & ... - https://in.linkedin.com/in/sandeep-chauhan-talent-acquisition
+2025-06-06 19:50:43,972 - INFO - Checkpoint saved: 38 URLs
+2025-06-06 19:50:43,974 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 38 profiles
+2025-06-06 19:50:49,639 - INFO - Scraping page 12
+2025-06-06 19:50:49,686 - INFO - Found 7 LinkedIn links on page
+2025-06-06 19:50:50,018 - INFO - Scraped: Puneet Lal - Talent Acquisition/ Recruitment - NTT DATA - https://in.linkedin.com/in/puneet-lal-9114781
+2025-06-06 19:50:50,350 - INFO - Scraped: Sayali Kothari - Senior Talent Acquisition Consultant - PTC - https://in.linkedin.com/in/sayali-kothari-877b2210a
+2025-06-06 19:50:50,700 - INFO - Scraped: Sunitha Pulagalla - Talent Acquisition Specialist - Arista ... - https://in.linkedin.com/in/sunithapulagalla
+2025-06-06 19:50:51,072 - INFO - Scraped: Ashwini Kulkarni - Talent Acquisition Manger - Tech ... - https://in.linkedin.com/in/ashkul
+2025-06-06 19:50:51,508 - INFO - Scraped: Kiran Paratane - Senior Talent Acquisition Consultant - bp - https://in.linkedin.com/in/kiranparatane
+2025-06-06 19:50:51,905 - INFO - Scraped: Neha Vyas - Pattern - https://in.linkedin.com/in/nehaaav
+2025-06-06 19:50:52,260 - INFO - Scraped: Aparna Agrawal - Senior Talent Acquisition Specialist - bp - https://in.linkedin.com/in/aparnaagrawal
+2025-06-06 19:50:58,045 - INFO - Scraping page 13
+2025-06-06 19:50:58,106 - INFO - Found 9 LinkedIn links on page
+2025-06-06 19:50:58,427 - INFO - Scraped: Rachana Gupte - Global Talent Acquisition - Mastercard - https://in.linkedin.com/in/rachana-gupte-b9722557
+2025-06-06 19:50:58,724 - INFO - Scraped: Kaustubh Joshi (KJ) - Head Talent Acquisition India Region - https://in.linkedin.com/in/kaustubhjoshi2
+2025-06-06 19:50:59,004 - INFO - Scraped: Jyoti Salvi - Talent Acquisition At Wolters Kluwer ... - https://in.linkedin.com/in/jyoti-salvi-543216b
+2025-06-06 19:50:59,308 - INFO - Scraped: Jasprit Kaur - Eaton - https://in.linkedin.com/in/jasprit-kaur-46a0287
+2025-06-06 19:50:59,654 - INFO - Scraped: Ruchika Gupta - Senior Talent Acquisition Partner - Avalara - https://in.linkedin.com/in/ruchika-gupta-35602a73
+2025-06-06 19:50:59,959 - INFO - Scraped: Ujwal Pardeshi - Manager - Acquisition Specialist - Anchanto - https://in.linkedin.com/in/ujwal-pardeshi-76713912
+2025-06-06 19:51:00,293 - INFO - Scraped: Nupur Patil - Manager, Talent Acquisition - Qualys - https://in.linkedin.com/in/nupurpatil
+2025-06-06 19:51:00,598 - INFO - Scraped: Avinash P. - Driving Talent Acquisition Across South Asia - https://in.linkedin.com/in/avinash-p-60767b1a0
+2025-06-06 19:51:00,911 - INFO - Scraped: Aditya Thatte - SailPoint - https://in.linkedin.com/in/adityathatte
+2025-06-06 19:51:07,709 - INFO - Scraping page 14
+2025-06-06 19:51:07,748 - INFO - Found 6 LinkedIn links on page
+2025-06-06 19:51:08,002 - INFO - Scraped: Anjali Shetty - Talent Acquisition Consultant - Accenture - https://in.linkedin.com/in/anjali-shetty-44b30627
+2025-06-06 19:51:08,234 - INFO - Scraped: Aanchal G. - Bengaluru, Karnataka, India - https://in.linkedin.com/in/aanchalg
+2025-06-06 19:51:08,494 - INFO - Scraped: Prerika Mishra - Senior Team Lead-Talent Acquisition - https://in.linkedin.com/in/prerika-mishra-102a33b
+2025-06-06 19:51:08,726 - INFO - Scraped: Atula Kulkarni - Talent Acquisition Partner - The Lubrizol ... - https://in.linkedin.com/in/atula-kulkarni
+2025-06-06 19:51:08,953 - INFO - Scraped: Sonali Dasgupta - Associate - Talent Acquisition - https://in.linkedin.com/in/sodasgupta
+2025-06-06 19:51:09,214 - INFO - Scraped: Saurabh Ahuja - Citi - https://in.linkedin.com/in/saurabhahuja
+2025-06-06 19:51:14,290 - INFO - Scraping page 15
+2025-06-06 19:51:14,347 - INFO - Found 4 LinkedIn links on page
+2025-06-06 19:51:14,753 - INFO - Scraped: Anu Shree - Assistant Manager- Talent Acquisition - Barclays - https://in.linkedin.com/in/anu-shree
+2025-06-06 19:51:15,017 - INFO - Scraped: Manik Khatavkar - bp - https://in.linkedin.com/in/manikk
+2025-06-06 19:51:15,289 - INFO - Scraped: Ruchika Sharma - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/ruchika-sharma-871b444b
+2025-06-06 19:51:15,590 - INFO - Scraped: Rinku Rastogi - Globant - https://in.linkedin.com/in/rinku-rastogi-5aa0333a
+2025-06-06 19:51:21,955 - INFO - Scraping page 16
+2025-06-06 19:51:22,060 - INFO - Found 13 LinkedIn links on page
+2025-06-06 19:51:22,519 - INFO - Scraped: Ankita Raj - Qualys - https://in.linkedin.com/in/ankita-raj-5a4a8aaa
+2025-06-06 19:51:22,872 - INFO - Scraped: Shubhi Jain - Manager I - Talent Acquisition - UST - https://in.linkedin.com/in/shubhijainust
+2025-06-06 19:51:23,238 - INFO - Scraped: Ruchika Pote - Ecolab - https://in.linkedin.com/in/ruchika-pote-4020a896
+2025-06-06 19:51:23,602 - INFO - Scraped: Anuradha Chavan - HR Talent Acquisition - Capgemini - https://in.linkedin.com/in/anuradha-chavan-39663578
+2025-06-06 19:51:34,273 - INFO - Scraped: None - https://in.linkedin.com/in/talentacquisitionemployerbrandingleader
+2025-06-06 19:51:44,857 - INFO - Scraped: None - https://in.linkedin.com/in/trupti-nimkar-46450510
+2025-06-06 19:51:55,672 - INFO - Scraped: None - https://in.linkedin.com/in/kirtinamjoshi
+2025-06-06 19:51:55,693 - INFO - Checkpoint saved: 71 URLs
+2025-06-06 19:51:55,698 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 71 profiles
+2025-06-06 19:52:36,003 - INFO - No more pages available
+2025-06-06 19:52:38,522 - INFO - Checkpoint saved: 71 URLs
+2025-06-06 19:52:38,527 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 71 profiles
+2025-06-06 19:52:38,528 - ERROR - Scraping failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-06-06 20:32:37,025 - INFO - Starting scrape for: talent acquisition  pune linkedin
+2025-06-06 20:32:37,100 - INFO - Loaded 71 previously scraped URLs
+2025-06-06 20:32:47,854 - INFO - Scraping page 1
+2025-06-06 20:32:48,205 - INFO - Found 8 LinkedIn links on page
+2025-06-06 20:32:58,867 - INFO - Scraped: None - https://in.linkedin.com/in/mallika-singh-505082219#:~:text=As%20a%20seasoned%20Talent%20Acquisition%20specialist%2C%20I,job%20postings%20that%20attract%20the%20best%20candidates.
+2025-06-06 20:33:09,704 - INFO - Scraped: None - https://in.linkedin.com/in/rinki-keshari-a8936a167#:~:text=As%20a%20Talent%20Acquisition%20Specialist%2C%20I%20am,shortlisting%2C%20and%20hiring%20candidates%20for%20various%20roles.
+2025-06-06 20:33:20,474 - INFO - Scraped: None - https://in.linkedin.com/in/harshad-dighe#:~:text=Harshad%20Somnath%20Dighe%20%2D%20Lead%20Talent%20Acquisition%20%2D%20Emerson%20%7C%20LinkedIn
+2025-06-06 20:33:31,402 - INFO - Scraped: None - https://in.linkedin.com/in/natasha-corda-8468334#:~:text=Natasha%20Corda%20%2D%20Strategic%20Talent%20Acquisition%20%2D%20Suzlon%20Energy%20Ltd%20%7C%20LinkedIn
+2025-06-06 20:33:42,370 - INFO - Scraped: None - https://in.linkedin.com/in/kavita-nair-7b223098#:~:text=About,General%20from%20Centre%20Point%20College.
+2025-06-06 20:33:53,146 - INFO - Scraped: None - https://in.linkedin.com/in/nitika-sinha-b1215957#:~:text=What%20do%20you%20do%20if,dedicating%20efforts%20to%20enhance%20proficiency.
+2025-06-06 20:33:53,188 - INFO - Checkpoint saved: 77 URLs
+2025-06-06 20:33:53,190 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 6 profiles
+2025-06-06 20:34:00,656 - INFO - Scraping page 2
+2025-06-06 20:34:00,736 - INFO - Found 8 LinkedIn links on page
+2025-06-06 20:34:07,476 - INFO - Scraping page 3
+2025-06-06 20:34:07,530 - INFO - Found 6 LinkedIn links on page
+2025-06-06 20:34:14,841 - INFO - Scraping page 4
+2025-06-06 20:34:14,891 - INFO - Found 3 LinkedIn links on page
+2025-06-06 20:34:20,693 - INFO - Scraping page 5
+2025-06-06 20:34:20,757 - INFO - Found 1 LinkedIn links on page
+2025-06-06 20:34:27,692 - INFO - Scraping page 6
+2025-06-06 20:34:27,740 - INFO - Found 1 LinkedIn links on page
+2025-06-06 20:34:27,762 - INFO - Checkpoint saved: 77 URLs
+2025-06-06 20:34:27,763 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 6 profiles
+2025-06-06 20:34:35,028 - INFO - Scraping page 7
+2025-06-06 20:34:45,126 - INFO - Found 0 LinkedIn links on page
+2025-06-06 20:34:52,093 - INFO - Scraping page 8
+2025-06-06 20:34:52,137 - INFO - Found 1 LinkedIn links on page
+2025-06-06 20:34:57,976 - INFO - Scraping page 9
+2025-06-06 20:34:58,024 - INFO - Found 3 LinkedIn links on page
+2025-06-06 20:35:04,719 - INFO - Scraping page 10
+2025-06-06 20:35:04,776 - INFO - Found 7 LinkedIn links on page
+2025-06-06 20:35:09,925 - INFO - Taking extended break...
+2025-06-06 20:35:55,933 - INFO - Scraping page 11
+2025-06-06 20:35:55,983 - INFO - Found 4 LinkedIn links on page
+2025-06-06 20:35:56,049 - INFO - Checkpoint saved: 77 URLs
+2025-06-06 20:35:56,051 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 6 profiles
+2025-06-06 20:36:03,643 - INFO - Scraping page 12
+2025-06-06 20:36:03,707 - INFO - Found 7 LinkedIn links on page
+2025-06-06 20:36:09,024 - INFO - Scraping page 13
+2025-06-06 20:36:09,090 - INFO - Found 9 LinkedIn links on page
+2025-06-06 20:36:14,663 - INFO - Scraping page 14
+2025-06-06 20:36:14,713 - INFO - Found 6 LinkedIn links on page
+2025-06-06 20:36:19,980 - INFO - Scraping page 15
+2025-06-06 20:36:20,034 - INFO - Found 4 LinkedIn links on page
+2025-06-06 20:36:27,076 - INFO - Scraping page 16
+2025-06-06 20:36:27,139 - INFO - Found 13 LinkedIn links on page
+2025-06-06 20:36:27,586 - INFO - Scraped: Priya Chand - Talent Acquisition Partner - Velsera - https://in.linkedin.com/in/priya-chand
+2025-06-06 20:36:27,752 - INFO - Checkpoint saved: 78 URLs
+2025-06-06 20:36:27,754 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 7 profiles
+2025-06-06 20:37:07,974 - INFO - No more pages available
+2025-06-06 20:37:10,350 - INFO - Checkpoint saved: 78 URLs
+2025-06-06 20:37:10,351 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 7 profiles
+2025-06-06 20:37:10,352 - ERROR - Scraping failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-06-06 20:38:55,353 - INFO - Starting scrape for: talent acquisition  pune linkedin
+2025-06-06 20:38:55,429 - INFO - Loaded 78 previously scraped URLs
+2025-06-06 20:39:07,316 - INFO - Scraping page 1
+2025-06-06 20:39:07,848 - INFO - Found 6 LinkedIn links on page
+2025-06-06 20:39:08,045 - INFO - Checkpoint saved: 78 URLs
+2025-06-06 20:39:08,047 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 0 profiles
+2025-06-06 20:39:13,470 - INFO - Scraping page 2
+2025-06-06 20:39:13,518 - INFO - Found 8 LinkedIn links on page
+2025-06-06 20:39:20,302 - INFO - Scraping page 3
+2025-06-06 20:39:20,366 - INFO - Found 6 LinkedIn links on page
+2025-06-06 20:39:25,508 - INFO - Scraping page 4
+2025-06-06 20:39:25,572 - INFO - Found 3 LinkedIn links on page
+2025-06-06 20:39:30,448 - INFO - Scraping page 5
+2025-06-06 20:39:30,491 - INFO - Found 1 LinkedIn links on page
+2025-06-06 20:39:37,011 - INFO - Scraping page 6
+2025-06-06 20:39:37,063 - INFO - Found 1 LinkedIn links on page
+2025-06-06 20:39:37,079 - INFO - Checkpoint saved: 78 URLs
+2025-06-06 20:39:37,081 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 0 profiles
+2025-06-06 20:39:43,420 - INFO - Scraping page 7
+2025-06-06 20:39:53,514 - INFO - Found 0 LinkedIn links on page
+2025-06-06 20:40:00,955 - INFO - Scraping page 8
+2025-06-06 20:40:01,000 - INFO - Found 1 LinkedIn links on page
+2025-06-06 20:40:08,057 - INFO - Scraping page 9
+2025-06-06 20:40:08,151 - INFO - Found 3 LinkedIn links on page
+2025-06-06 20:40:12,546 - INFO - Scraping page 10
+2025-06-06 20:40:12,599 - INFO - Found 7 LinkedIn links on page
+2025-06-06 20:40:19,082 - INFO - Taking extended break...
+2025-06-06 20:41:12,126 - INFO - Scraping page 11
+2025-06-06 20:41:12,184 - INFO - Found 4 LinkedIn links on page
+2025-06-06 20:41:12,251 - INFO - Checkpoint saved: 78 URLs
+2025-06-06 20:41:12,253 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 0 profiles
+2025-06-06 20:41:18,584 - INFO - Scraping page 12
+2025-06-06 20:41:18,634 - INFO - Found 7 LinkedIn links on page
+2025-06-06 20:41:26,127 - INFO - Scraping page 13
+2025-06-06 20:41:26,181 - INFO - Found 9 LinkedIn links on page
+2025-06-06 20:41:32,363 - INFO - Scraping page 14
+2025-06-06 20:41:32,454 - INFO - Found 6 LinkedIn links on page
+2025-06-06 20:41:38,410 - INFO - Scraping page 15
+2025-06-06 20:41:38,479 - INFO - Found 4 LinkedIn links on page
+2025-06-06 20:41:46,366 - INFO - Scraping page 16
+2025-06-06 20:41:46,413 - INFO - Found 13 LinkedIn links on page
+2025-06-06 20:41:46,601 - INFO - Checkpoint saved: 78 URLs
+2025-06-06 20:41:46,602 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 0 profiles
+2025-06-06 20:42:26,746 - INFO - No more pages available
+2025-06-06 20:42:29,258 - INFO - Checkpoint saved: 78 URLs
+2025-06-06 20:42:29,259 - INFO - Results saved to linkedin_talent acquisition _pune_profiles.json: 0 profiles
+2025-06-06 20:42:29,259 - ERROR - Scraping failed: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+2025-06-06 20:42:39,695 - INFO - Starting scrape for: site:linkedin.com/in/ People Pune
+2025-06-06 20:42:49,583 - INFO - Scraping page 1
+2025-06-06 20:42:49,824 - INFO - Found 45 LinkedIn links on page
+2025-06-06 20:43:22,356 - INFO - Starting scrape for: site:linkedin.com/in/ Talent acquisition Pune
+2025-06-06 20:43:34,936 - INFO - Scraping page 1
+2025-06-06 20:43:35,027 - INFO - Found 35 LinkedIn links on page
+2025-06-06 20:43:45,175 - INFO - Scraped: None - https://www.google.com/search
+2025-06-06 20:43:55,394 - INFO - Scraped: None - https://maps.google.com/maps
+2025-06-06 20:43:55,873 - INFO - Scraped: Pranav Mahajan - Talent Acquisition Partner - Alfa Laval - https://in.linkedin.com/in/pranav-mahajan-01148215
+2025-06-06 20:43:56,189 - INFO - Scraped: Yashpal Adpawar - Head of Talent Acquisition - https://in.linkedin.com/in/yashpal-adpawar-090a27b
+2025-06-06 20:43:56,497 - INFO - Scraped: Mahesh Wandile - Manager- Talent Acquisition - Eaton - https://in.linkedin.com/in/mahesh-wandile-3168714
+2025-06-06 20:43:56,848 - INFO - Scraped: Nitika Sinha - Talent Acquisition Manager - https://in.linkedin.com/in/nitika-sinha-b1215957
+2025-06-06 20:43:57,156 - INFO - Scraped: Deepti Grace - General Manager - Talent Acquisition - https://in.linkedin.com/in/deeptigrace
+2025-06-06 20:43:57,483 - INFO - Scraped: Anuradha Chavan - HR Talent Acquisition - Capgemini - https://in.linkedin.com/in/anuradha-chavan-39663578
+2025-06-06 20:43:57,779 - INFO - Scraped: Rajbir Bhowmick - Human Resources (Talent Acquisition) - https://in.linkedin.com/in/rajbir-bhowmick-head-talent-acquisition-bajajhousingfinanceltd
+2025-06-06 20:43:58,068 - INFO - Scraped: Siddhartha Roychowdhury - Head of Talent Acquisition - JLR - https://in.linkedin.com/in/siddhartha-roychowdhury-000b2b5
+2025-06-06 20:43:58,362 - INFO - Scraped: Swarada Deshpande - Talent Acquisition at BMC Software - https://in.linkedin.com/in/swarada-deshpande-81ab68132
+2025-06-06 20:43:58,655 - INFO - Scraped: Kavita Nair - Lead Talent Acquisition - AlphaSense - https://in.linkedin.com/in/kavita-nair-7b223098
+2025-06-06 20:43:58,814 - INFO - Checkpoint saved: 12 URLs
+2025-06-06 20:43:58,816 - INFO - Results saved to linkedin_Talent acquisition_Pune_profiles.json: 12 profiles
+2025-06-06 20:44:05,454 - INFO - Scraping page 2
+2025-06-06 20:44:05,583 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:44:15,811 - INFO - Scraped: None - https://accounts.google.com/ServiceLogin
+2025-06-06 20:44:16,419 - INFO - Scraped: Puneetha Murthy - Talent Acquisition Lead - ANSR - https://in.linkedin.com/in/puneetha-murthy-80384bb1
+2025-06-06 20:44:16,746 - INFO - Scraped: Kumar Saurabh - Talent Acquisition Leader - AST LLC - https://in.linkedin.com/in/kumar-saurabh-aa03613a
+2025-06-06 20:44:17,053 - INFO - Scraped: Razia Shaikh (She/Her/Hers)Talent Acquisition Leader - https://in.linkedin.com/in/raziashaikh
+2025-06-06 20:44:17,357 - INFO - Scraped: Nikhil Patil - Talent Acquisition Manager - Tietoevry Tech ... - https://in.linkedin.com/in/nikhilpatil178
+2025-06-06 20:44:17,647 - INFO - Scraped: Ruchika Sharma - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/ruchika-sharma-871b444b
+2025-06-06 20:44:17,944 - INFO - Scraped: Tejaswini Pawar - Talent Acquisition Manager - https://in.linkedin.com/in/tejaswinipawar
+2025-06-06 20:44:18,232 - INFO - Scraped: Priyanka Shiravale - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/priyanka-shiravale-10946a102
+2025-06-06 20:44:18,575 - INFO - Scraped: Huzefa Vapra - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/huzefavapra
+2025-06-06 20:44:18,906 - INFO - Scraped: Gargi Banerjee - Senior Manager Talent Acquisition - Mercer - https://in.linkedin.com/in/gargi-banerjee-2944a090
+2025-06-06 20:44:19,201 - INFO - Scraped: Shivani Agarwal - Talent Acquisition Specialist - UBS - https://in.linkedin.com/in/shivani-agarwal-78636557
+2025-06-06 20:44:24,353 - INFO - Scraping page 3
+2025-06-06 20:44:24,434 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:44:25,050 - INFO - Scraped: Anjali Shetty - Talent Acquisition Consultant - Accenture - https://in.linkedin.com/in/anjali-shetty-44b30627
+2025-06-06 20:44:25,463 - INFO - Scraped: Dipti Murudkar - Lead Consultant -Talent Acquisition - https://in.linkedin.com/in/dipti-murudkar-409b4164
+2025-06-06 20:44:25,824 - INFO - Scraped: Natasha Corda - Strategic Talent Acquisition - Suzlon ... - https://in.linkedin.com/in/natasha-corda-8468334
+2025-06-06 20:44:26,170 - INFO - Scraped: Ruchika Gupta - Senior Talent Acquisition Partner - Avalara - https://in.linkedin.com/in/ruchika-gupta-35602a73
+2025-06-06 20:44:26,510 - INFO - Scraped: Darshana Kulkarni - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/darshana-kulkarni
+2025-06-06 20:44:26,824 - INFO - Scraped: Balakumar Mohan - Pune, Maharashtra, India - https://in.linkedin.com/in/balakumarmohan
+2025-06-06 20:44:27,117 - INFO - Scraped: Harshad Somnath Dighe - Lead Talent Acquisition - Emerson - https://in.linkedin.com/in/harshad-dighe
+2025-06-06 20:44:27,472 - INFO - Scraped: Prafulla Char - Group Manager I - Talent Acquisition - UST - https://in.linkedin.com/in/prafullac
+2025-06-06 20:44:27,794 - INFO - Scraped: Kaustubh Joshi (KJ) - Head Talent Acquisition India Region - https://in.linkedin.com/in/kaustubhjoshi2
+2025-06-06 20:44:28,201 - INFO - Scraped: Trupti Nimkar - General Manager - Talent Acquisition - https://in.linkedin.com/in/trupti-nimkar-46450510
+2025-06-06 20:44:35,144 - INFO - Scraping page 4
+2025-06-06 20:44:35,198 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:44:35,794 - INFO - Scraped: Puja Pandey - Talent Acquisition Lead - Cummins India - https://in.linkedin.com/in/puja-pandey-15789a16
+2025-06-06 20:44:36,106 - INFO - Scraped: Abdul Qadir - Talent Acquisition - UBS - https://in.linkedin.com/in/abdul-qadir-8b8218a9
+2025-06-06 20:44:36,422 - INFO - Scraped: Shubhi Jain - Manager I - Talent Acquisition - UST - https://in.linkedin.com/in/shubhijainust
+2025-06-06 20:44:36,744 - INFO - Scraped: Sofia Mahajan - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/sofiamahajan
+2025-06-06 20:44:37,063 - INFO - Scraped: Sachin Mirpuri - Talent Acquisition Partner - Medallia - https://in.linkedin.com/in/sachinmirpuri
+2025-06-06 20:44:37,364 - INFO - Scraped: Pallavi Kalekar - Talent Acquisition Specialist - Flex - https://in.linkedin.com/in/pallavi-kalekar-3632b0111
+2025-06-06 20:44:37,717 - INFO - Scraped: Dinesh Chavan - Talent Acquisition Lead - HNI GBSC - https://in.linkedin.com/in/dinesh-d3-chavand
+2025-06-06 20:44:38,115 - INFO - Scraped: Swapnil Khade - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/swapnil-khade-29589a96
+2025-06-06 20:44:38,454 - INFO - Scraped: Harsh D. - Talent Acquisition Manager - Persistent Systems - https://in.linkedin.com/in/hdiwakirti
+2025-06-06 20:44:38,772 - INFO - Scraped: Kirti Namjoshi - Group Manager-Talent Acquisition - https://in.linkedin.com/in/kirtinamjoshi
+2025-06-06 20:44:44,720 - INFO - Scraping page 5
+2025-06-06 20:44:44,765 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:44:45,343 - INFO - Scraped: Rajnish Sharma - Sr. Manager Talent Acquisition - Zensar ... - https://in.linkedin.com/in/rajnishsharma82
+2025-06-06 20:44:45,635 - INFO - Scraped: Rachana Suryawanshi - Senior Talent Acquisition Partner - https://in.linkedin.com/in/rachanasuryawanshi28
+2025-06-06 20:44:46,021 - INFO - Scraped: Naveen Kavtiyal - Talent Acquisition Manager - https://in.linkedin.com/in/naveen-kavtiyal
+2025-06-06 20:44:46,340 - INFO - Scraped: Dipti Puranik - Lead- Talent Acquisition (GBS) - https://in.linkedin.com/in/dipti-puranik-86948749
+2025-06-06 20:44:46,647 - INFO - Scraped: Allen Louis - Talent Acquisition Manager - https://in.linkedin.com/in/allen-louis-51ab4352
+2025-06-06 20:44:46,952 - INFO - Scraped: Anu Shree - Assistant Manager- Talent Acquisition - Barclays - https://in.linkedin.com/in/anu-shree
+2025-06-06 20:44:47,274 - INFO - Scraped: Neha Mukhedkar - Pune, Maharashtra, India - https://in.linkedin.com/in/neha-mukhedkar-10b03751
+2025-06-06 20:44:47,585 - INFO - Scraped: Priyanka Bansal - Specialist Talent Acquisition Partner - https://in.linkedin.com/in/priyanka-bansal-327191143
+2025-06-06 20:44:47,863 - INFO - Scraped: Yogesh Kr Sharma - Vice President Talent Acquisition - https://in.linkedin.com/in/talentacquisitionemployerbrandingleader
+2025-06-06 20:44:48,195 - INFO - Scraped: Priyanka Bhalwankar - Tata Technologies - https://in.linkedin.com/in/priyanka-bhalwankar-83664a56
+2025-06-06 20:44:55,233 - INFO - Scraping page 6
+2025-06-06 20:44:55,302 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:44:56,005 - INFO - Scraped: Nupur Patil - Manager, Talent Acquisition - Qualys - https://in.linkedin.com/in/nupurpatil
+2025-06-06 20:44:56,405 - INFO - Scraped: Aditya Kakade - Talent Acquisition Lead - Prudential plc - https://in.linkedin.com/in/aditya-kakade-715a3228
+2025-06-06 20:44:56,795 - INFO - Scraped: Priya Bhosale - Senior Talent Acquisition Specialist - Danfoss - https://in.linkedin.com/in/priya-bhosale-17685366
+2025-06-06 20:44:57,190 - INFO - Scraped: Minal Nanadikar - Lead - Talent Acquisition (Manufacturing) - https://in.linkedin.com/in/minalnanadikar
+2025-06-06 20:44:57,504 - INFO - Scraped: Rinku Rastogi - Globant - https://in.linkedin.com/in/rinku-rastogi-5aa0333a
+2025-06-06 20:44:57,826 - INFO - Scraped: Sarang Apte - Talent Acquisition Lead - Stantec - https://in.linkedin.com/in/sarang-apte-1ab9433
+2025-06-06 20:44:58,142 - INFO - Scraped: Pallavi Kale - Talent Acquisition Manager - GCC Hiring - https://in.linkedin.com/in/pallavisawantkale
+2025-06-06 20:44:58,440 - INFO - Scraped: Komal Choudhari - Manager, Talent Acquisition - https://in.linkedin.com/in/komalchoudhari
+2025-06-06 20:44:58,745 - INFO - Scraped: Kiran Paratane - Senior Talent Acquisition Consultant - bp - https://in.linkedin.com/in/kiranparatane
+2025-06-06 20:44:59,053 - INFO - Scraped: Sayali Kothari - Senior Talent Acquisition Consultant - PTC - https://in.linkedin.com/in/sayali-kothari-877b2210a
+2025-06-06 20:44:59,233 - INFO - Checkpoint saved: 63 URLs
+2025-06-06 20:44:59,239 - INFO - Results saved to linkedin_Talent acquisition_Pune_profiles.json: 63 profiles
+2025-06-06 20:45:05,186 - INFO - Scraping page 7
+2025-06-06 20:45:05,243 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:45:05,851 - INFO - Scraped: Prajakti Shende - Associate Manager - Talent Acquisition - https://in.linkedin.com/in/prajakti-shende-2aa26032
+2025-06-06 20:45:06,157 - INFO - Scraped: Abhijeet Agarwal - Head of Talent Acquisition - https://in.linkedin.com/in/abhijeetagarwal2002
+2025-06-06 20:45:06,470 - INFO - Scraped: Mamta Yadav - Talent Acquisition Consultant - Eaton - https://in.linkedin.com/in/hrmamtayadav
+2025-06-06 20:45:06,789 - INFO - Scraped: Sunitha Pulagalla - Talent Acquisition Specialist - Arista ... - https://in.linkedin.com/in/sunithapulagalla
+2025-06-06 20:45:07,222 - INFO - Scraped: Priya P. - Senior Talent Acquisition Specialist - Tavant - https://in.linkedin.com/in/priya-p-a5768788
+2025-06-06 20:45:07,535 - INFO - Scraped: Amit Chaturvedi - Talent Acquisition Leader - India - Rocket ... - https://in.linkedin.com/in/amit-chaturvedi-42027a4
+2025-06-06 20:45:07,876 - INFO - Scraped: Anirban Mukherjee - Talent Acquisition Specialist - https://in.linkedin.com/in/hranirbanmukherjee
+2025-06-06 20:45:08,173 - INFO - Scraped: Niloy Bakshi - VOIS - https://in.linkedin.com/in/niloy-bakshi-b0ba387
+2025-06-06 20:45:08,457 - INFO - Scraped: Sneha Gupta - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/sneha-gupta-7b4b16143
+2025-06-06 20:45:08,746 - INFO - Scraped: Avantika Bhasker Iyer - Lead Talent Acquisition - Varroc - https://in.linkedin.com/in/avantika-bhasker-iyer-41282423
+2025-06-06 20:45:15,277 - INFO - Scraping page 8
+2025-06-06 20:45:15,334 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:45:15,942 - INFO - Scraped: Abhishek Malve - Talent Acquisition - KellyOCG - https://in.linkedin.com/in/abhishek-malve-28b02b8
+2025-06-06 20:45:16,280 - INFO - Scraped: Bhavana Shah - Fujitsu Consulting India Pune university - https://in.linkedin.com/in/bhavana-shah-59063124
+2025-06-06 20:45:16,619 - INFO - Scraped: Arpita Dutta - Principal Talent Acquisition Partner - Cohesity - https://in.linkedin.com/in/arpita-dutta-b94a3439
+2025-06-06 20:45:16,921 - INFO - Scraped: Rajeev Sharma - Director Talent Acquisition - India - Amazon - https://in.linkedin.com/in/rajeev-sharma-ta
+2025-06-06 20:45:17,238 - INFO - Scraped: Atula Kulkarni - Talent Acquisition Partner - The Lubrizol ... - https://in.linkedin.com/in/atula-kulkarni
+2025-06-06 20:45:17,554 - INFO - Scraped: Manish Khatri - Talent Acquisition Specialist - Zinnov - https://in.linkedin.com/in/professionalhr
+2025-06-06 20:45:17,860 - INFO - Scraped: Ritesh Nair - Executive Director - Head of Recruitment India - https://in.linkedin.com/in/nairritesh
+2025-06-06 20:45:18,141 - INFO - Scraped: Kalyani Salve-Nikhade - Talent Acquisition Partner - Avantor - https://in.linkedin.com/in/kalyanisn
+2025-06-06 20:45:18,622 - INFO - Scraped: Priya Mishra - Senior Executive Talent Acquisition - https://in.linkedin.com/in/priya-mishra-03004875
+2025-06-06 20:45:18,917 - INFO - Scraped: Jyoti Salvi - Talent Acquisition At Wolters Kluwer ... - https://in.linkedin.com/in/jyoti-salvi-543216b
+2025-06-06 20:45:23,337 - INFO - Scraping page 9
+2025-06-06 20:45:23,403 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:45:24,040 - INFO - Scraped: Mithila Warade - Talent Acquisition Partner - Alfa Laval - https://in.linkedin.com/in/mithila-warade-b9492634
+2025-06-06 20:45:24,357 - INFO - Scraped: Juhi Singh - Talent Acquisition Coordinator - SingleStore - https://in.linkedin.com/in/juhisingh9
+2025-06-06 20:45:24,671 - INFO - Scraped: Priya Chand - Talent Acquisition Partner - Velsera - https://in.linkedin.com/in/priya-chand
+2025-06-06 20:45:24,976 - INFO - Scraped: Nithin C - Principal Talent Acquisition Partner - UiPath - https://in.linkedin.com/in/connectnithin
+2025-06-06 20:45:25,291 - INFO - Scraped: Shashank . - Talent Acquisition Manager - Citi - https://in.linkedin.com/in/shashankwatak
+2025-06-06 20:45:25,568 - INFO - Scraped: Sandhya gupta - Talent Acquisition Manager - https://in.linkedin.com/in/sandhya-gupta-545020124
+2025-06-06 20:45:25,874 - INFO - Scraped: Naveen Pratap Singh - Talent Acquisition at Persistent - https://in.linkedin.com/in/naveen-pratap-singh-169702104
+2025-06-06 20:45:26,270 - INFO - Scraped: Sonal Sharma - Lead Talent Acquisition Business Partner - https://in.linkedin.com/in/sonal-sharma-4696153a
+2025-06-06 20:45:26,577 - INFO - Scraped: Darshana Kothawale - Talent Acquisition Recruiter - Citi - https://in.linkedin.com/in/darshana-kothawale-7812ba100
+2025-06-06 20:45:26,870 - INFO - Scraped: Divya Pillai - Talent Acquisition Partner - IBM - https://in.linkedin.com/in/divya-pillai-390aba138
+2025-06-06 20:45:33,736 - INFO - Scraping page 10
+2025-06-06 20:45:33,781 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:45:34,360 - INFO - Scraped: Priyanka Dey - Talent Acquisition Lead - Global Payments ... - https://in.linkedin.com/in/priyankadutta
+2025-06-06 20:45:34,702 - INFO - Scraped: Sweety Prasad - Senior Talent Acquisition Specialist - _VOIS - https://in.linkedin.com/in/sweety-prasad-18829924
+2025-06-06 20:45:35,016 - INFO - Scraped: NIHARIKA SHARAN - Talent Acquisition Partner - Avaya - https://in.linkedin.com/in/niharika-sharan-27b104117
+2025-06-06 20:45:35,307 - INFO - Scraped: Rachana Gupte - Global Talent Acquisition - Mastercard - https://in.linkedin.com/in/rachana-gupte-b9722557
+2025-06-06 20:45:35,621 - INFO - Scraped: Hitesh Jain - Talent Acquisition - Medline Industries, Inc. - https://in.linkedin.com/in/hiteshmj
+2025-06-06 20:45:35,913 - INFO - Scraped: Puneet Lal - Talent Acquisition/ Recruitment - NTT DATA - https://in.linkedin.com/in/puneet-lal-9114781
+2025-06-06 20:45:36,225 - INFO - Scraped: Simran Kalra - Talent Acquisition Partner - Turing - https://in.linkedin.com/in/simran-kalra-4ab943147
+2025-06-06 20:45:36,515 - INFO - Scraped: Aditya Thatte - SailPoint - https://in.linkedin.com/in/adityathatte
+2025-06-06 20:45:36,805 - INFO - Scraped: Arpita Mohanty - Talent Acquisition Recruiter - https://in.linkedin.com/in/arpita-mohanty-1801ba16a
+2025-06-06 20:45:37,097 - INFO - Scraped: Deveshraj Singh - Strategic Talent Acquisition and ... - https://in.linkedin.com/in/deveshraj-singh-8226996b
+2025-06-06 20:45:44,124 - INFO - Taking extended break...
+2025-06-06 20:46:20,518 - INFO - Scraping page 11
+2025-06-06 20:46:20,584 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:46:21,172 - INFO - Scraped: Pooja M. - Senior Talent Acquisition - Persistent Systems - https://in.linkedin.com/in/pooja-m-037717a5
+2025-06-06 20:46:21,480 - INFO - Scraped: Deepak Bangal - The Citco Group Limited - https://in.linkedin.com/in/deepak-bangal-a017828
+2025-06-06 20:46:21,803 - INFO - Scraped: Kiran Yadav - Talent Acquisition Manager at Wipro-PARI - https://in.linkedin.com/in/kiran-yadav-66340951
+2025-06-06 20:46:22,143 - INFO - Scraped: Vaishnavi S. - Talent Acquisition Specialist - ALTEN - https://in.linkedin.com/in/vaishnavi-s-58a1591b8
+2025-06-06 20:46:22,565 - INFO - Scraped: Oshin Rao - Talent Acquisition Recruiter - Cohesity - https://in.linkedin.com/in/oshin-rao-9a0103106
+2025-06-06 20:46:22,857 - INFO - Scraped: Sayalee Pawar - Talent Acquisition Manager - Xperate - https://in.linkedin.com/in/sayalee-pawar-25642090
+2025-06-06 20:46:23,165 - INFO - Scraped: Yogita Jidewar - Sr.Executive- Talent Acquisition at Sincro ... - https://in.linkedin.com/in/yogita-jidewar-20b99736
+2025-06-06 20:46:23,461 - INFO - Scraped: Sagar Meshram - Senior Talent Acquisition Executive - https://in.linkedin.com/in/sagar-meshram
+2025-06-06 20:46:23,774 - INFO - Scraped: Yogesh Dharmalingam - Manager Corporate HR - https://in.linkedin.com/in/yogesh-dharmalingam-a8724b21
+2025-06-06 20:46:24,077 - INFO - Scraped: Abhinav Mishra - Icertis - https://in.linkedin.com/in/abhinavjee
+2025-06-06 20:46:24,283 - INFO - Checkpoint saved: 113 URLs
+2025-06-06 20:46:24,291 - INFO - Results saved to linkedin_Talent acquisition_Pune_profiles.json: 113 profiles
+2025-06-06 20:46:33,890 - INFO - Scraping page 12
+2025-06-06 20:46:33,949 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:46:34,600 - INFO - Scraped: Hira Jha - Talent Acquisition Specialist - BNY - https://in.linkedin.com/in/hirajha
+2025-06-06 20:46:34,940 - INFO - Scraped: Rahul Mahudkar - Senior Manager Talent Acquisition - https://in.linkedin.com/in/rahul-mahudkar27
+2025-06-06 20:46:35,279 - INFO - Scraped: Madhavi Jonnaghatta - Walmart Global Tech India - https://in.linkedin.com/in/madhavi-jonnaghatta-40a5903b
+2025-06-06 20:46:35,622 - INFO - Scraped: Sarosh Raghavan - Synechron - https://in.linkedin.com/in/saroshr
+2025-06-06 20:46:35,947 - INFO - Scraped: Dilip Joshi - Talent Acquisition Lead @ Morningstar - https://in.linkedin.com/in/dilipjoshi02
+2025-06-06 20:46:36,291 - INFO - Scraped: Amit singh - Talent Acquisition - WTW - https://in.linkedin.com/in/amit-singh-10271891
+2025-06-06 20:46:36,585 - INFO - Scraped: Aparna Agrawal - Senior Talent Acquisition Specialist - bp - https://in.linkedin.com/in/aparnaagrawal
+2025-06-06 20:46:36,897 - INFO - Scraped: Eshita Motiani - Talent Acquisition and People Operations ... - https://in.linkedin.com/in/eshitamotiani
+2025-06-06 20:46:37,209 - INFO - Scraped: Neha Vyas - Pattern - https://in.linkedin.com/in/nehaaav
+2025-06-06 20:46:37,519 - INFO - Scraped: Rutuja Pande - Talent Acquisition Executive - Techne AI ... - https://in.linkedin.com/in/rutuja-pande-181546159
+2025-06-06 20:46:43,904 - INFO - Scraping page 13
+2025-06-06 20:46:43,953 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:46:44,542 - INFO - Scraped: Anuradha Paswan - Talent Acquisition Lead - Stefanini ... - https://in.linkedin.com/in/anuradha-paswan-99b82b104
+2025-06-06 20:46:44,861 - INFO - Scraped: Seba Vipul Sam - Talent Acquisition Lead - https://in.linkedin.com/in/sebavipulsam
+2025-06-06 20:46:45,214 - INFO - Scraped: Gagandeep Kaur - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/gagankaurdeep
+2025-06-06 20:46:45,509 - INFO - Scraped: Pawan Rai - Global Talent Acquisition at TIAA - https://in.linkedin.com/in/pawan-rai-5b1331105
+2025-06-06 20:46:45,814 - INFO - Scraped: Avinash Lad - Senior Manager - Talent Acquisition - Conga - https://in.linkedin.com/in/avinashlad
+2025-06-06 20:46:46,090 - INFO - Scraped: Narayan Das - Mastercard - https://in.linkedin.com/in/ncd007
+2025-06-06 20:46:46,395 - INFO - Scraped: Renuka Amalkar - Talent Acquisition Specialist - Citi - https://in.linkedin.com/in/renuka-amalkar-291470147
+2025-06-06 20:46:46,693 - INFO - Scraped: Raktima Dev - Senior Talent Acquisition Specialist - Atyeti Inc - https://in.linkedin.com/in/raktima-dev-472503100
+2025-06-06 20:46:46,993 - INFO - Scraped: Nilisha K. - Spring Computing Technologies Pvt. Ltd. - https://in.linkedin.com/in/nilisha-24-k
+2025-06-06 20:46:47,304 - INFO - Scraped: Rahul Ranawat - Lead - Talent Acquisition - Tetra Pak - https://in.linkedin.com/in/rranawat
+2025-06-06 20:46:51,814 - INFO - Scraping page 14
+2025-06-06 20:46:51,865 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:46:52,393 - INFO - Scraped: Smitha R. - CrowdStrike - https://in.linkedin.com/in/rsmitha
+2025-06-06 20:46:52,703 - INFO - Scraped: Ankita . - Talent Acquisition Associate - Publicis Sapient - https://in.linkedin.com/in/ankita-647938189
+2025-06-06 20:46:52,992 - INFO - Scraped: Ayushi Tyagi - Talent Acquisition Specialist - CREAT UNO ... - https://in.linkedin.com/in/ayushi-tyagi-900a1914a
+2025-06-06 20:46:53,267 - INFO - Scraped: Rakhee Kulkarni - Head of Talent Acquisition - Asia Pacific - https://in.linkedin.com/in/rakheekulkarni
+2025-06-06 20:46:53,560 - INFO - Scraped: Jhalak Agarwal - Heading Recruitments for Digital-Car - https://in.linkedin.com/in/agarwaljhalak
+2025-06-06 20:46:53,983 - INFO - Scraped: Rajiv Yadav - Head of Talent Acquisition - ElectraEV - https://in.linkedin.com/in/rajiv-yadav-90299817
+2025-06-06 20:46:54,324 - INFO - Scraped: Akriti Singh Chauhan - Senior Manager Talent Acquisition - https://in.linkedin.com/in/akriti-singh-chauhan-6826227b
+2025-06-06 20:46:54,641 - INFO - Scraped: Kinnari Patil - Talent Acquisition Lead - Compucom - https://in.linkedin.com/in/kinnari-patil-079a25117
+2025-06-06 20:46:54,991 - INFO - Scraped: Varsha Srivastava - Talent Acquisition Partner IMEA - https://in.linkedin.com/in/varsha-srivastava-a20bb610
+2025-06-06 20:46:55,335 - INFO - Scraped: Sayoni Banerjee - Senior Manager Talent Acquisition and ... - https://in.linkedin.com/in/sayoni-banerjee-734b3527
+2025-06-06 20:47:00,470 - INFO - Scraping page 15
+2025-06-06 20:47:00,526 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:47:01,128 - INFO - Scraped: Jasprit Kaur - Eaton - https://in.linkedin.com/in/jasprit-kaur-46a0287
+2025-06-06 20:47:01,473 - INFO - Scraped: Shailani Srivastava - Human Resource, Talent Acquisition - https://in.linkedin.com/in/shailani-srivastava-bb693a39
+2025-06-06 20:47:01,782 - INFO - Scraped: Pyush Bubna - Manager - Talent Operations - Actalent - https://in.linkedin.com/in/pyushbubna
+2025-06-06 20:47:02,069 - INFO - Scraped: Pranati Chouhan - Team Lead Talent Acquisition - Korn Ferry - https://in.linkedin.com/in/pranati-chouhan-b4b37393
+2025-06-06 20:47:02,384 - INFO - Scraped: Apoorva Modak - Talent Acquisition Lead - AmberStudent - https://in.linkedin.com/in/apoorva-modak
+2025-06-06 20:47:02,656 - INFO - Scraped: Pranav Agrawal - Seagate Technology - https://in.linkedin.com/in/pranavpagrawal
+2025-06-06 20:47:02,958 - INFO - Scraped: Pratima Chaubey - Recruitment Specialist - https://in.linkedin.com/in/pratima-chaubey-84b933156
+2025-06-06 20:47:03,251 - INFO - Scraped: Naga . - Talent Acquisition Specialist - Infosys - https://in.linkedin.com/in/naga-9b6444314
+2025-06-06 20:47:03,561 - INFO - Scraped: Priyanka Chakrabartty - Manager - Talent Acquisition - https://in.linkedin.com/in/priyanka-chakrabartty
+2025-06-06 20:47:03,849 - INFO - Scraped: Supriya Naik - Talent Acquisition Lead - Godrej Properties ... - https://in.linkedin.com/in/supriya-naik-a4487564
+2025-06-06 20:47:08,485 - INFO - Scraping page 16
+2025-06-06 20:47:08,542 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:47:09,128 - INFO - Scraped: Rajni R - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/rajni-r-40356b294
+2025-06-06 20:47:09,439 - INFO - Scraped: Deepak Rundwal - Assistant Manager - Talent Acquisition - https://in.linkedin.com/in/deepakrundwal
+2025-06-06 20:47:09,761 - INFO - Scraped: Vikrant Mahajani - Manager - Talent Acquisition - dentsu - https://in.linkedin.com/in/vikrant-mahajani-6936642b
+2025-06-06 20:47:10,135 - INFO - Scraped: Shraddha Sharma - Senior Specialist - Talent Acquisition - https://in.linkedin.com/in/shraddha-sharma-7744794a
+2025-06-06 20:47:10,437 - INFO - Scraped: Shreya Shrivastava - Pune, Maharashtra, India - https://in.linkedin.com/in/shreya-shrivastava-172359140
+2025-06-06 20:47:10,826 - INFO - Scraped: Shraddha Deshmukh - Talent Acquisition Manager - philm ... - https://in.linkedin.com/in/shraddha-deshmukh-5628391a0
+2025-06-06 20:47:11,138 - INFO - Scraped: Sonika Tiwari - Lead- Talent Acquisition - https://in.linkedin.com/in/sonika-tiwari-471628a
+2025-06-06 20:47:11,442 - INFO - Scraped: Rohit Katiyare - Sr. Talent Acquisition Partner - Parkar Digital - https://in.linkedin.com/in/rk-83690736
+2025-06-06 20:47:11,742 - INFO - Scraped: Pooja Kokate - Talent Acquisition Specialist - Thinkitive Inc - https://in.linkedin.com/in/pooja-kokate-72779b16a
+2025-06-06 20:47:12,045 - INFO - Scraped: Divya Verma - Talent Acquisition Partner - The Citco Group ... - https://in.linkedin.com/in/divya-verma-talentacquisition
+2025-06-06 20:47:12,226 - INFO - Checkpoint saved: 163 URLs
+2025-06-06 20:47:12,232 - INFO - Results saved to linkedin_Talent acquisition_Pune_profiles.json: 163 profiles
+2025-06-06 20:47:17,331 - INFO - Scraping page 17
+2025-06-06 20:47:17,394 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:47:17,980 - INFO - Scraped: Hema Nair - Senior Manager Talent Acquisition - eClerx - https://in.linkedin.com/in/hema-nair-b8458630
+2025-06-06 20:47:18,335 - INFO - Scraped: Rinku Mishra - Team Lead - Talent Acquisition - SG Analytics - https://in.linkedin.com/in/rinku-mishra-ab99bb10b
+2025-06-06 20:47:18,646 - INFO - Scraped: Jaitali Dabholkar - Talent Acquisition Manager - Aurus Inc ... - https://in.linkedin.com/in/jaitali-dabholkar-328091a1
+2025-06-06 20:47:18,957 - INFO - Scraped: Shekhar V Kamble - Pune, Maharashtra, India - https://in.linkedin.com/in/shekhar-v-kamble-b4427284
+2025-06-06 20:47:19,292 - INFO - Scraped: Anuradha Paswan - Talent Acquisition Specialist - https://in.linkedin.com/in/anuradha-paswan-073415192
+2025-06-06 20:47:19,615 - INFO - Scraped: Prajakta Kathe - Pune, Maharashtra, India - https://in.linkedin.com/in/prajakta-kathe-chro
+2025-06-06 20:47:19,942 - INFO - Scraped: Lata Karki - Tata Consultancy Services - https://in.linkedin.com/in/lata-karki-76838439
+2025-06-06 20:47:20,252 - INFO - Scraped: Priyanka Singh - Talent Acquisition - Medline India - https://in.linkedin.com/in/priyanka-singh-in
+2025-06-06 20:47:20,568 - INFO - Scraped: Santosh Rane - Talent Acquisition - LTIMindtree Ltd. - https://in.linkedin.com/in/santosh-rane-0b6ba928
+2025-06-06 20:47:20,872 - INFO - Scraped: Vikas Shinde - BU HR Head JSW MOBILITY LTD - https://in.linkedin.com/in/vikas-shinde-6a554818
+2025-06-06 20:47:27,416 - INFO - Scraping page 18
+2025-06-06 20:47:27,470 - INFO - Found 37 LinkedIn links on page
+2025-06-06 20:47:28,070 - INFO - Scraped: Nilima Nair - Talent Acquisition Specialist - Northern Trust ... - https://in.linkedin.com/in/nilimadhiwar
+2025-06-06 20:47:28,421 - INFO - Scraped: Preeti Saha - Head - Talent Acquisition, India - https://in.linkedin.com/in/preeti-saha
+2025-06-06 20:47:28,739 - INFO - Scraped: Priyanka M. - Talent Acquisition Specialist - ACL Digital - https://in.linkedin.com/in/priyanka-m-376785299
+2025-06-06 20:47:29,065 - INFO - Scraped: Divya Kulkarni - Team Lead - Talent Acquisition, APAC - https://in.linkedin.com/in/divya-kulkarni-8316a873
+2025-06-06 20:47:29,376 - INFO - Scraped: Wasim Kanwade - Senior Talent Acquisition Specialist - https://in.linkedin.com/in/wasim-kanwade-2ba14523
+2025-06-06 20:47:29,684 - INFO - Scraped: Sandeep Kabra - Talent Acquisition Lead - Icertis - https://in.linkedin.com/in/sandeep-kabra-a993241b
+2025-06-06 20:47:29,969 - INFO - Scraped: Vijay Jain - Talent Acquisition & Strategy Leader - Amdocs - https://in.linkedin.com/in/vijayjain82
+2025-06-06 20:47:30,358 - INFO - Scraped: Megha Choubey - Lead - Talent Acquisition - https://in.linkedin.com/in/megha-choubey-b8029150
+2025-06-06 20:47:30,687 - INFO - Scraped: Ashwini Jadhav - Talent Acquisition Specialist - Amdocs - https://in.linkedin.com/in/ashwini-jadhav-amdocs
+2025-06-06 20:47:30,998 - INFO - Scraped: Kunal Singh - Talent Acquisition Partner - India & APAC - https://in.linkedin.com/in/kunals07
+2025-06-06 20:47:38,172 - INFO - Scraping page 19
+2025-06-06 20:47:48,212 - WARNING - Timeout waiting for search results
+2025-06-06 20:48:28,390 - INFO - No more pages available
+2025-06-06 20:48:30,897 - INFO - Checkpoint saved: 183 URLs
+2025-06-06 20:48:30,907 - INFO - Results saved to linkedin_Talent acquisition_Pune_profiles.json: 183 profiles
+2025-06-06 20:48:30,908 - ERROR - Scraping failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
