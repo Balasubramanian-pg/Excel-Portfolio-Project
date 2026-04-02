@@ -2,7 +2,6 @@
 
 This repository serves as a comprehensive, chapter-by-chapter guide to learning Visual Basic for Applications (VBA), with a focus on its use within Microsoft Excel. Each section provides detailed explanations and practical examples to build a strong foundation in VBA programming.
 
----
 
 ## Chapter 1: Introduction to VBA
 
