@@ -15,7 +15,6 @@ Understanding the size of your potential market is crucial for several reasons:
 5.  **Competitive Analysis:** Helps understand your potential share relative to competitors.
 6.  **Go-to-Market Strategy:** Influences how you'll reach your customers (e.g., a small niche market might require direct sales, while a large market might use broader advertising).
 
----
 
 **Key Concepts: TAM, SAM, and SOM**
 
@@ -41,7 +40,6 @@ These three acronyms are the building blocks of market sizing. They represent di
 **Relationship:** TAM > SAM > SOM.
 Your SOM is your most immediate focus, but understanding SAM shows your medium-term growth potential, and TAM shows the ultimate ceiling.
 
----
 
 **How to Perform Market Sizing: Common Approaches**
 
@@ -80,7 +78,6 @@ There are two main approaches, often used in conjunction:
 **Which approach to use?**
 Ideally, use both! A top-down approach can give you a quick sense of scale, while a bottom-up approach can provide a more granular and validated estimate. If both methods yield similar results, it increases your confidence in the numbers.
 
----
 
 **Practical Steps to Get Started:**
 
@@ -108,7 +105,6 @@ Ideally, use both! A top-down approach can give you a quick sense of scale, whil
     *   Look for comparable companies or products.
 8.  **Iterate and Refine:** Market sizing is rarely a one-shot deal. As you learn more, refine your estimates.
 
----
 
 **Important Considerations & Tips:**
 
@@ -119,5 +115,3 @@ Ideally, use both! A top-down approach can give you a quick sense of scale, whil
 *   **It's an "Art and a Science":** It involves data (science) but also judgment and assumptions (art).
 *   **Don't Aim for Perfect Precision:** The goal is to be "directionally correct" and provide a reasonable estimate to inform decisions.
 *   **Ask Questions!** If you're unsure about sources, assumptions, or calculations, please ask. That's what we're here for.
-
----
