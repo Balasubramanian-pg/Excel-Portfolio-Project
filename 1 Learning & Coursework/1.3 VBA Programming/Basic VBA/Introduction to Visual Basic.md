@@ -9,14 +9,12 @@
 | **VSTO** | **Visual Studio Tools for Office** is a set of tools (available as project templates and runtime) for creating .NET-based customizations in Microsoft Office applications. Introduced for Office 2003 and later, VSTO lets Office applications host the .NET CLR, enabling developers to build rich, managed-code extensions. It supports both document-level and application-level add-ins.                                                                                                                             |
 | **XML**  | **Extensible Markup Language** is a markup language that defines rules for encoding documents in a way that is both human-readable and machine-readable. XML is designed for simplicity, generality, and usability over the internet. It’s text-based, supports Unicode for multiple languages, and is widely used for data exchange, configuration files, and structured storage in software systems, including Office file formats and web services.                                                                   |
 
----
 
 ## **Overview of the “Favorites” Ribbon**
 
 The **Favorites Ribbon** is a custom Excel ribbon tab added immediately after the **Home** tab when Excel launches.
 It groups frequently-used commands into logical categories for quick access, reducing navigation time and providing one-click access to common Excel and Windows tools.
 
----
 
 ## **Ribbon Groups & Commands**
 
@@ -35,7 +33,6 @@ Commands related to saving and editing worksheet content.
   * **Shortcut:** F12
   * **Use Case:** Create backup versions or save in different formats (XLSX, CSV, PDF).
 
----
 
 ### 2. **Edit (Group)**
 
@@ -62,7 +59,6 @@ Quick access to basic editing tools.
   * **Action:** Checks the active sheet for spelling errors.
   * **Shortcut:** F7
 
----
 
 ### 3. **Print (Group)**
 
@@ -81,7 +77,6 @@ Print preparation and execution tools.
   * **Action:** Sends the current sheet or selection to the printer.
   * **Shortcut:** Ctrl + P
 
----
 
 ### 4. **Program (Group)**
 
@@ -94,7 +89,6 @@ File management and Excel settings.
 * **Options** – Opens Excel Options dialog for application settings.
 * **Exit** – Closes Excel entirely.
 
----
 
 ### 5. **Evaluate (Group)**
 
@@ -108,7 +102,6 @@ Tools for quick calculations and recalculations.
 
   * **Action:** Forces recalculation of all formulas regardless of calculation mode.
 
----
 
 ### 6. **Annotate (Group)**
 
@@ -127,7 +120,6 @@ Capture and document parts of your work.
   * **Action:** Records user actions step-by-step for troubleshooting.
   * **Output:** Saves as a .zip containing an .mht file with screenshots and text.
 
----
 
 ### 7. **Options (Group)**
 
@@ -160,7 +152,6 @@ ThisWorkbook.CustomDocumentProperties.Item("App_ReleaseDate").Value = "31-Jul-20
 ThisWorkbook.CustomDocumentProperties.Item("App_ReleaseDate").Delete
 ```
 
----
 
 ### 8. **Help (Group)**
 
@@ -168,12 +159,9 @@ ThisWorkbook.CustomDocumentProperties.Item("App_ReleaseDate").Delete
 * **Report Issue** – Opens issue submission page in browser.
 * **New Version Available** – Displays only if a newer add-in version is detected. Downloads and installs latest version.
 
----
 
 ### 9. **About (Group)**
 
 * **Add-in Name** – Displays add-in name and version number.
 * **Release Date** – Displays release date of the current version.
 * **Copyright** – Displays author/organization.
-
----
