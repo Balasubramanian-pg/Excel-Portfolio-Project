@@ -2,7 +2,6 @@
 
 Welcome to my collection of **Excel Portfolio Projects** that showcase the depth of my exploration into advanced **Excel functionalities** and **VBA (Visual Basic for Applications)** automation. Throughout this journey, I’ve taken on a range of projects that have allowed me to master the key features of Excel, including advanced formulas, pivot tables, Power Query, Power Pivot, and VBA scripting. Each project demonstrates my growing proficiency in transforming raw data into actionable insights, improving workflow efficiency, and automating repetitive tasks.
 
----
 
 ## Essential Learning Resources
 
@@ -20,7 +19,6 @@ The path I followed for mastering Excel was structured to progressively build up
 
 This journey allowed me to push Excel’s boundaries and leverage its full potential for business intelligence, reporting, and decision-making.
 
----
 
 ## Project Highlights
 
@@ -76,7 +74,6 @@ Here’s a list of **Excel projects** that reflect my progression, highlighting 
    - **Key Features**: Use of `COUNTIF`, `SUMIF`, and dynamic arrays to aggregate campaign data, visualizing results using charts.
    - **Outcome**: Allowed for better decision-making on campaign effectiveness, optimizing marketing spend.
 
----
 
 ## Additional Project Ideas to Explore
 
@@ -102,7 +99,6 @@ Here are a few **additional project ideas** that can push your Excel and VBA ski
    - **Objective**: Design a task tracker with built-in priority and deadline management, automating task updates.
    - **Skills Needed**: Excel formulas, conditional formatting, VBA (for task updates).
 
----
 
 ## Conclusion
 
@@ -110,7 +106,6 @@ This repository demonstrates the breadth of projects I’ve undertaken to harnes
 
 Each project serves as a testament to my ability to solve real-world problems using Excel, transforming raw data into insights, improving efficiency, and automating repetitive tasks to save time and effort.
 
----
 
 ## Future Projects and Learning
 
